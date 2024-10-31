@@ -13,7 +13,7 @@
 </tr>
 
 <tr>
-    <td>Convert to:</td>
+    <td>Converter para:</td>
     <td><select name="scale" id="scale" size="1">
                <option disabled>Select the scale</option>
                <option value="c">Celsius</option>
