@@ -13,7 +13,7 @@
 </tr>
 
 <tr>
-    <td>Convert para:</td>
+    <td>Converter para:</td>
     <td><select name="scale" id="scale" size="1">
                <option disabled>Selecione a Escala</option>
                <option value="c">Celsius</option>
@@ -23,7 +23,7 @@
 </tr>
 
 <tr>
-    <td><input type="submit" name="btnConvert" id="btnConvert" value="Convert"></td>
+    <td><input type="submit" name="btnConvert" id="btnConvert" value="Converter"></td>
     <td><input type="reset" name="btnReset" id="btnReset" value="Reset"></td>
 </tr>
 
