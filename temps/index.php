@@ -1,6 +1,6 @@
 <html>
 <head>
-      <title>Termometro</title>
+      <title>Conversor</title>
       <meta charset="utf-8">
 </head>
 <body>
