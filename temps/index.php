@@ -8,7 +8,7 @@
 
 <table>
 <tr>
-    <td>Insira a temperatura a ser convertida:</td>
+    <td>Coloque a temperatura a ser convertida:</td>
     <td><input type="text" name="temp" id="temp" size="10"></td>
 </tr>
 
